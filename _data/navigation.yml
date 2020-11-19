@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Tech"
+    url: /tech/
+
   - title: "Publications"
     url: /publications/
 
