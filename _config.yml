@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "PARK SUNG DONG"
-  avatar           : "pray.png"
+  avatar           : "pray.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/pasudo123"
+  github           : "pasudo123"
   google_plus      :
   keybase          :
   instagram        :
